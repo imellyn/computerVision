@@ -1,13 +1,7 @@
 streamlit 
 pandas 
 numpy 
-matplotlib
 torch
-sklearn
-seaborn
-plotly
-scikit-learn
 torchvision
-torchaudio
-nltk
-PdfReader
+pillow
+requests
